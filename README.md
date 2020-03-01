@@ -7,6 +7,7 @@
 1. ACPR 2021. Due: 1 August 2021, TBA
 1. WACV 2020. Due: July 26, 2019 (first round) December 9, 2019 (second round), when: March 1-5, 2020, where: Aspen CO, USA. link: http://wacv20.wacv.net/
 1. AAAI 2020. Due: September 5, 2020, when: Feb 7-12, 2020. where: Newyork, USA. link: https://aaai.org/Conferences/AAAI-20/aaai20call/
+1. ICRA 2020. Due: September 15, 2019. when: May 31- June 4, 2020. Where: Paris. Link: https://www.icra2020.org/call-for-papers
 1. CVPR 2020. Due: November 15, 2019, when: June 16 - 18, 2020, where: USA. Link: http://cvpr2020.thecvf.com/ 
 
 ---
