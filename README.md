@@ -1,6 +1,7 @@
 # 
 
 1. IROS 2020. Due: March 1, 2020, When: October 25-29, 2020, Las Vegas, USA. Link: http://www.iros2020.org/
+1. IJCAI-PRICAI 2020. Due: January 15, 2020. When: 11-17 July 2020, Japan. Link: https://www.ijcai20.org/important-dates.html
 1. ECCV 2020. Due: March 5, 2020, when: August 23-38, 2020, Where: SEC, GLASGOW.  Link: https://eccv2020.eu/important-dates/
 1. ICCV 2021. Due: 	March 22, 2020, when: January 1, 2021, where: Montreal, Canada. Link: TBA
 1. ACCV 2020. Due: July 8, 2020 , when: Jul. 13, 2020, where: Kyoto, Japan. link: http://accv2020.kyoto/. 
