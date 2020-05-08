@@ -9,6 +9,7 @@
 1. BMVC 2020. Due: April 23, 2020, when: Sep 2020. Where: UK. Link: https://personalpages.manchester.ac.uk/staff/timothy.f.cootes/BMVC2020/index.html
 1. ACM MM 2020. Due: April 25, 2020. When: Oct 12, 2020. Where: Seattle.
 1. ISVC. Due: June 29, 2020. when: October 5-7, 2020. Where: San Diego, California, USA. Link: https://www.isvc.net/
+1. ACTAI. Due: June 10, 2020. When: 09 Nov, 2020. USA. Link: http://ictai2020.org/index.html
 1. ICMLA. Due: July 03, 2020. When: December 14-17, 2020. Where: Florida.
 1. ACCV 2020. Due: July 8, 2020 , when: Jul. 13, 2020, where: Kyoto, Japan. link: http://accv2020.kyoto/. 
 1. ACPR 2021. Due: 1 August 2021, TBA
