@@ -12,7 +12,7 @@
 1. ICMLA. Due: July 03, 2020. When: December 14-17, 2020. Where: Florida.
 1. ACCV 2020. Due: July 8, 2020 , when: Jul. 13, 2020, where: Kyoto, Japan. link: http://accv2020.kyoto/. 
 1. ACPR 2021. Due: 1 August 2021, TBA
-1. WACV 2020. Due: July 26, 2019 (first round) December 9, 2019 (second round), when: March 1-5, 2020, where: Aspen CO, USA. link: http://wacv20.wacv.net/
+1. WACV 2021. Due: June 12th, 2020 (first round) August 21st,, 2020 (second round), when: . link: http://wacv2021.thecvf.com/submission
 1. AAAI 2020: Due: August 30, 2019. When: Feb 07, 2020. Where: NewYork.
 1. AAAI 2020. Due: September 5, 2020, when: Feb 7-12, 2020. where: Newyork, USA. link: https://aaai.org/Conferences/AAAI-20/aaai20call/
 1. ICRA 2020. Due: September 15, 2019. when: May 31- June 4, 2020. Where: Paris. Link: https://www.icra2020.org/call-for-papers
