@@ -21,9 +21,9 @@
 1. ICASSP 2020. Due: October 21, 2019. When May 4 — 8, 2020, When, where: Barcelona, Spain
 1. CVPR 2020. Due: November 15, 2019, when: June 16 - 18, 2020, where: USA. Link: http://cvpr2020.thecvf.com/ 
 ---
-
-
 # 
+
+IEEE Robotics and Automation Letters: Journal in conjunction with some conferences. https://www.ieee-ras.org/publications/ra-l
 
 Some notes: 
 IV:
