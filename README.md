@@ -29,5 +29,7 @@ IEEE Robotics and Automation Letters: Journal in conjunction with some conferenc
 Some notes: 
 IV:
 
-
 https://dpfan.net/acceptrate/
+
+Other resources: 
+https://jackietseng.github.io/conference_call_for_paper/conferences-with-ccf.html
