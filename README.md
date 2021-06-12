@@ -3,10 +3,10 @@
 
 | Conference | Submission Deadline | Acceptance Notification | Where    | When         | Link                                     |
 | :--------: | :-----------------: | :---------------------: | -------- | ------------ | ---------------------------------------- |
-| IJCAI 2021 |    Jan 20, 2021     |      Feb 07, 2021       | Montreal | Aug 21, 2021 | https://ijcai-21.org/                    |
-|  IV 2021   |    Feb 01, 2021     |      Apr 05, 2021       | Nagoya   | Jul 11, 2021 | https://2021.ieee-iv.org/                |
-| IROS 2021  |    Mar 01, 2021     |      Jun 30, 2021       | Virtual  | Sep 27, 2021 | https://www.iros2021.org/call-for-papers |
-| ECCV 2020  |    Mar 05, 2020     |         May 23          | Virtual  | Aug 23, 2020 | https://eccv2020.eu/                     |
+| IJCAI 2021 |    01/20/2021     |      Feb 07, 2021       | Montreal | Aug 21, 2021 | https://ijcai-21.org/                    |
+|  IV 2021   |    02/01/2021     |      Apr 05, 2021       | Nagoya   | Jul 11, 2021 | https://2021.ieee-iv.org/                |
+| IROS 2021  |    03/01/2021     |      Jun 30, 2021       | Virtual  | Sep 27, 2021 | https://www.iros2021.org/call-for-papers |
+| ECCV 2020  |    03/05/2020     |         May 23          | Virtual  | Aug 23, 2020 | https://eccv2020.eu/                     |
 
 1. ECCV 2020. Due: March 5, 2020, when: August 23-38, 2020, Where: SEC, GLASGOW.  Link: https://eccv2020.eu/important-dates/
 1. ICCV 2021. Due: 	March 22, 2020, when: January 1, 2021, where: Montreal, Canada. Link: TBA
